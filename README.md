@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RAVIKIRAN203
 - 👀 I’m interested in web3,machine learining,block chain
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate workingon web3,block chain
+- 💞️ I’m looking to collaborate working on web3,block chain
 - 
 
 <!---
